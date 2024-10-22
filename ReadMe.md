@@ -1,6 +1,6 @@
 # 🚀 Advanced Telegram RAT Package 🚀
 
-**Warning:** This ZIP file contains the executable for a highly advanced Telegram Remote Access Tool (RAT).
+**Warning:** This ZIP file contains the executable for a highly advanced Telegram Remote Access Tool (RAT) with over 40 functions that can easily kill or spy on a machine.
 
 ## 📦 Inside the ZIP:
 An ingenious .exe file designed to harness the power of Telegram for remote control and management.
@@ -12,10 +12,12 @@ An ingenious .exe file designed to harness the power of Telegram for remote cont
 - Seamless integration with Telegram for real-time remote access and control.
 - User-friendly interface for easy navigation and operation.
 - Enhanced security measures to ensure your activities remain discreet.
+- Over 40 functions to efficiently manage and monitor the target machine.
 
 ## 🚨 Usage Guidelines:
 1. Extract the ZIP file to a secure location.
 2. Right-click the executable file and select **"Run as administrator."**
-3. Follow the on-screen prompts to set up and enjoy the full capabilities of your Telegram RAT.
 
-⚠️ Use responsibly and ensure compliance with all legal regulations regarding remote access and monitoring. This tool is intended for **authorized** use only.
+**📬 [DM @BUDDY_God](https://t.me/BUDDY_God) to get the code for this and other special projects.**
+
+⚠️ Use responsibly and ensure compliance with all legal regulations regarding remote access and monitoring. This tool is intended for authorized use only. Install at your own risk on a virtual machine if you wish to know what it does.
