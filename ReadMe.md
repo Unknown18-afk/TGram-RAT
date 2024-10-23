@@ -18,6 +18,6 @@ An ingenious .exe file designed to harness the power of Telegram for remote cont
 1. Extract the ZIP file to a secure location.
 2. Right-click the executable file and select **"Run as administrator."**
 
-**📬 [DM @BUDDY_God](https://t.me/BUDDY_God) to get the code for this and other special projects.**
+**📬 DM [@BUDDY_God](https://t.me/BUDDY_God) to get the code for this and other special projects.**
 
 ⚠️ Use responsibly and ensure compliance with all legal regulations regarding remote access and monitoring. This tool is intended for authorized use only. Install at your own risk on a virtual machine if you wish to know what it does.
